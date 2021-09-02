@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498902171081",
+    "project_id": "wetcha-d3651",
+    "storage_bucket": "wetcha-d3651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498902171081:android:0d106c476d1741dcde3c18",
+        "android_client_info": {
+          "package_name": "com.example.clouddownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498902171081-ev7kn3f0fluvd5kibtcpbeb5phgi6jb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoTJfJEtR4N6F29UXGxbCe03X2iqaxy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498902171081-ev7kn3f0fluvd5kibtcpbeb5phgi6jb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
